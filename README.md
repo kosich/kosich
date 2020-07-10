@@ -2,12 +2,12 @@
   <br/>
   <h1>
     Kostia Palchyk 🙂
+    <br/>
+    <sub><a href="https://twitter.com/kddsky">twitter.com/kddsky</a></sub>
+    <br/>
+    <br/>
+    <br/>
   </h1>
-  <br/>
-  <a href="https://twitter.com/kddsky">twitter.com/kddsky</a>
-  <br/>
-  <br/>
-  <br/>
 </div>
 
 
