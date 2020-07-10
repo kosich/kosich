@@ -1,10 +1,9 @@
 <div align="center">
   <br/>
   <h1>
-    Kostia Palchyk 🙂
+    Kos Palchyk 🙂
     <br/>
     <sub><a href="https://twitter.com/kddsky">twitter.com/kddsky</a></sub>
-    <br/>
     <br/>
     <br/>
   </h1>
@@ -27,7 +26,7 @@ JSX + RxJS Framework Experiment
 
 📖 my articles:
 
-- ["Text to GIF animation — React Pet Project Devlog"](https://dev.to/kosich/text-to-gif-animation-react-pet-project-devlog-5eel)
+- ["Text to GIF animation — React Pet Project Devlog"](https://dev.to/kosich/text-to-gif-animation-react-pet-project-devlog-5eel)    
 React, RxJS, Canvas & Text-to-Speech
 
 - ["Intro to Recks: Rx+JSX experiment"](https://dev.to/kosich/recks-rxjs-based-framework-23h5)    
