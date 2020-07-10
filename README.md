@@ -1,3 +1,5 @@
+<!-- This is useless: theres all info needed on the left -->
+<!-- 
 <div align="center">
   <br/>
   <h1>
@@ -8,6 +10,7 @@
     <br/>
   </h1>
 </div>
+-->
 
 
 🔭 my projects:
