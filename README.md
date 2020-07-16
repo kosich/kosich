@@ -14,7 +14,7 @@
 
 ![cntr](https://komarev.com/ghpvc/?username=kosich)
 
-# 🔭 my projects:
+## 🔭 my projects:
 
 - [**NoCode**](https://twitter.com/kddsky/status/1268186859936657410)    
 My WIP nocode startup
@@ -28,7 +28,7 @@ Funny Emoji animations
 - [Recks JS](https://github.com/recksjs/recks)    
 JSX + RxJS Framework Experiment
 
-# 📖 my articles:
+## 📖 my articles:
 
 - ["Text to GIF animation — React Pet Project Devlog"](https://dev.to/kosich/text-to-gif-animation-react-pet-project-devlog-5eel)    
 React, RxJS, Canvas & Text-to-Speech
