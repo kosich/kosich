@@ -19,16 +19,20 @@
 - [**NoCode**](https://twitter.com/kddsky/status/1268186859936657410)    
 My WIP nocode startup
 
-- [Recks JS](https://github.com/recksjs/recks)    
-JSX + RxJS Framework Experiment
+- [RecksJS](https://recks.gitbook.io/)    
+`<div>{ ajax.getJSON(URL) }</div>`    
+JSX + RxJS Framework
 
-- [<$> fragment](https://github.com/kosich/react-rxjs-elements)    
-RxJS fragment for React
+- [<$> elements for React](https://github.com/kosich/react-rxjs-elements)    
+`<$div>{ ajax.getJSON(URL) }</$div>`    
+React elements with RxJS content / params
 
 - [ThinkRx.io](https://thinkrx.io)    
+`---o--o-oo-o----`    
 Instant time-accurate RxJS marble diagrams
 
 - [Framd.cc](https://framd.cc)    
+🙂 😁 😆    
 Funny Emoji animations
 
 ## 📖 my articles:
